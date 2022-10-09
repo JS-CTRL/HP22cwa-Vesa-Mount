@@ -23,6 +23,6 @@ Adapter to attach an HP 22cwa monitor to a 75x75mm vesa mount
 ![Mount 
 
 
-![Adapter Drawing]](https://github.com/JS-CTRL/HP22cwa-Vesa-Mount/blob/main/VESA_Drawing_PNG.PNG?raw=true)
+![Adapter Drawing](https://github.com/JS-CTRL/HP22cwa-Vesa-Mount/blob/main/VESA_Drawing_PNG.PNG?raw=true)
 
 

@@ -17,7 +17,7 @@ Adapter to attach an HP 22cwa monitor to a 75x75mm VESA mount
  - 1 Screw
 	 - Diameter: 4mm
 	 - Length: 15mm
-	 - 
+	 
  ### Additional Resources
  [ YouTube Video of Build Process (3 min)](https://youtu.be/rdRXjx3tbT0)
 

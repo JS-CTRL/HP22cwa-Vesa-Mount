@@ -3,10 +3,10 @@
 
 
 
-### What is it?
-Adapter to attach an HP 22cwa monitor to a 75x75mm vesa mount
+### Purpose
+Adapter to attach an HP 22cwa monitor to a 75x75mm VESA mount
 
-### Material requirements? 
+### Material requirements
  - 70g PLA
  - 4 Carrage Bolts
 	 - Square neck: 5mm

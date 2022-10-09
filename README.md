@@ -1,4 +1,4 @@
-# HP22cwa  Vesa Mount Adapter 
+# HP22cwa  VESA Mount Adapter 
 
 
 
